@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #4332fc;
+    text-align: center;
+    width: 100%;
+    text-align: center;
+    display: table;
+}
+.nav-item, .nav-link{
+    background-color: #3a72fb;
+    color: white;
+    text-align: center;
+    border-radius: 15px;
+    margin-right: 5%;
+    padding: 5px 35px;
+}
