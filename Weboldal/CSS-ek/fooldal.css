@@ -1,0 +1,19 @@
+.text{
+    font-size: larger;
+    margin-left: 4%;
+}
+
+.fenyokep {
+    float: right;
+    margin-right: 4%;
+    margin-left: 2%;
+    border-radius: 4%;
+}
+
+.h2 {  
+    margin-left: 4%;
+}
+
+.h1 {
+    text-align: center;
+}
