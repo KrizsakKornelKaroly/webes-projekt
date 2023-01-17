@@ -2,18 +2,15 @@
     text-align: center;
 }
 
+img {
+    float: right;
+    width: 25%;
+}
+
+.card {
+    margin-bottom: 2%;
+}
+
 .text{
     font-size: larger;
-    margin-left: 4%;
-}
-
-.kep1 {
-    float: right;
-    margin-right: 4%;
-    margin-left: 2%;
-    border-radius: 4%;
-}
-
-.h2 {  
-    margin-left: 4%;
 }
