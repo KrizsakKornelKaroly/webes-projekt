@@ -2,7 +2,6 @@
     background-color: #4332fc;
     text-align: center;
     width: 100%;
-    text-align: center;
     display: table;
 }
 .nav-item, .nav-link{
@@ -10,7 +9,7 @@
     color: white;
     text-align: center;
     border-radius: 15px;
-    margin-right: 10px;
-    margin-left: 10px;
-    padding: 5px 35px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 5px 10px;
 }
